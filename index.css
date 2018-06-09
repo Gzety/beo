@@ -11,9 +11,10 @@
 
 .header {
     position: relative;
-    height: 100vh;
+    height: 600px;
     background: #192314;
     overflow: hidden;
+    padding-bottom: 108px;
 }
 
 .header-pic {
